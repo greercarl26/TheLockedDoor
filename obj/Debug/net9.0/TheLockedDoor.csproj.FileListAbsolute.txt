@@ -1,0 +1,14 @@
+C:\Coding\TheLockedDoor\obj\Debug\net9.0\TheLockedDoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\TheLockedDoor\obj\Debug\net9.0\TheLockedDoor.AssemblyInfoInputs.cache
+C:\Coding\TheLockedDoor\obj\Debug\net9.0\TheLockedDoor.AssemblyInfo.cs
+C:\Coding\TheLockedDoor\obj\Debug\net9.0\TheLockedDoor.csproj.CoreCompileInputs.cache
+C:\Coding\TheLockedDoor\bin\Debug\net9.0\TheLockedDoor.exe
+C:\Coding\TheLockedDoor\bin\Debug\net9.0\TheLockedDoor.deps.json
+C:\Coding\TheLockedDoor\bin\Debug\net9.0\TheLockedDoor.runtimeconfig.json
+C:\Coding\TheLockedDoor\bin\Debug\net9.0\TheLockedDoor.dll
+C:\Coding\TheLockedDoor\bin\Debug\net9.0\TheLockedDoor.pdb
+C:\Coding\TheLockedDoor\obj\Debug\net9.0\TheLockedDoor.dll
+C:\Coding\TheLockedDoor\obj\Debug\net9.0\refint\TheLockedDoor.dll
+C:\Coding\TheLockedDoor\obj\Debug\net9.0\TheLockedDoor.pdb
+C:\Coding\TheLockedDoor\obj\Debug\net9.0\TheLockedDoor.genruntimeconfig.cache
+C:\Coding\TheLockedDoor\obj\Debug\net9.0\ref\TheLockedDoor.dll

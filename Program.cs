@@ -7,7 +7,7 @@ door.State();
 
 
 class Door
-{
+{ 
     private DoorState currentState;
     private int pin;
     
